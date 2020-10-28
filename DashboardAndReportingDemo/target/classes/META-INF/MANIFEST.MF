@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: DashboardAndReportingDemo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: rupeshkumar02
+Implementation-Vendor-Id: com.uhg.vijay
+Build-Jdk: 1.8.0_241
+Implementation-URL: https://spring.io/projects/spring-boot/DashboardAn
+ dReportingDemo
+Created-By: Maven Integration for Eclipse
+
